@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kritika Aswal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+[![An image of @kritika1710's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kritika1710)](https://holopin.io/@kritika1710)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritika1710&label=Profile%20views&color=0e75b6&style=flat" alt="kritika1710" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kritika1710" alt="kritika1710" /></a> </p>
